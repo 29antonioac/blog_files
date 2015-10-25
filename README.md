@@ -2,7 +2,7 @@
 ***
 
 En este repositorio se encuentran los ficheros necesarios para generar el blog http://blog.analca3.com,
-que se encuentra en [este repositorio](). El original es de @iblancasa, muchas
+que se encuentra en [este repositorio](). El original es de [iblancasa](https://github.com/iblancasa), muchas
 gracias por compartirlo :D.
 
 ## ¿Qué son estos ficheros?
