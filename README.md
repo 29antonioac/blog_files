@@ -1,7 +1,7 @@
 # analca3 Blog: Blog files
 ***
 
-En este repositorio se encuentran los ficheros necesarios para generar el blog http://blog.analca3.com,
+En este repositorio se encuentran los ficheros necesarios para generar el blog http://analca3.github.io/blog/ ,
 que se encuentra en [este repositorio](). El original es de [iblancasa](https://github.com/iblancasa), muchas
 gracias por compartirlo :D.
 
